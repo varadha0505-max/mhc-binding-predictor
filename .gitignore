@@ -1,0 +1,13 @@
+# Data (too large for GitHub)
+data/
+
+# Model files (large binaries)
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
